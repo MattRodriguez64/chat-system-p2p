@@ -1,6 +1,6 @@
 package main;
 /**
- * Represents an Bye Request
+ * Represents a Bye Request
  * Class : Bye
  * @version: V1
  * @author: RODRIGUEZ Matt
