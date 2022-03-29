@@ -24,7 +24,7 @@ public class Bye implements Serializable{
 	// CONSTRUCTOR
 	/** Creates a Bye Object with the specified User.
 	 * @param user The User.
-	*/
+	**/
 	public Bye(User user) {
 		setUser(user);
 	}
